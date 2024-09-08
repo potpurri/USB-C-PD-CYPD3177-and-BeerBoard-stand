@@ -16,11 +16,10 @@ The board is soldered by me using a [Pinecil V2](https://wiki.pine64.org/wiki/Pi
 
 ## Images
 
-### Real Life Image
+### Assembled Images
 ![USB PD Board](imgs/top.jpg)
 ![20V delivery](imgs/delivering20v.jpg)
 ![Board bottom](imgs/bottom.jpg)
 
 ### 3D Image
 ![USB PD Board 3D Image](imgs/3d_image.png)
-# BeerBoard-stand
