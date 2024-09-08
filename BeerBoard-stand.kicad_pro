@@ -48,8 +48,18 @@
           "min_clearance": 0.5
         }
       },
-      "diff_pair_dimensions": [],
-      "drc_exclusions": [],
+      "diff_pair_dimensions": [
+        {
+          "gap": 0.0,
+          "via_gap": 0.0,
+          "width": 0.0
+        }
+      ],
+      "drc_exclusions": [
+        "clearance|127600000|63600000|bb80e4d8-0fc5-4018-a2eb-613f6da00ae7|01937d8f-7188-43d6-a5b8-4c867b4c9495",
+        "courtyards_overlap|102971621|68449999|a8240a82-3ed9-47a9-8c88-601a81beac90|bdf7dcdd-a939-497b-92db-f5995122d9e3",
+        "courtyards_overlap|99192415|52150001|4980e8fe-7048-4aa1-8368-9f205db53f55|5a1fc6fd-7201-404d-9b43-15a4879da1be"
+      ],
       "meta": {
         "version": 2
       },
@@ -165,8 +175,21 @@
           "td_width_to_size_filter_ratio": 0.9
         }
       ],
-      "track_widths": [],
-      "via_dimensions": [],
+      "track_widths": [
+        0.0,
+        0.3,
+        0.5
+      ],
+      "via_dimensions": [
+        {
+          "diameter": 0.0,
+          "drill": 0.0
+        },
+        {
+          "diameter": 0.7,
+          "drill": 0.3
+        }
+      ],
       "zones_allow_external_fillets": false
     },
     "layer_presets": [],
