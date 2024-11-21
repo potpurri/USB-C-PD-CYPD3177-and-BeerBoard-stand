@@ -1,6 +1,6 @@
 # USB Power Delivery Board (CYPD-3177) / BeerBoard-stand
 
-**THIS IS AN OLD DESIGN, FOR VER 2 LOOK AT [THIS REPOSITORY](https://github.com/potpurri/USB-C_PD_Board_V2_CYPD3177).
+**THIS IS AN OLD DESIGN, FOR VER 2 LOOK AT [THIS REPOSITORY](https://github.com/potpurri/USB-C_PD_Board_V2_CYPD3177).**
 
 This **USB Power Delivery (PD) Board** is based around the **CYPD-3177** chipset. The board allows users to select the desired output **voltage** and **current** using onboard switches, making it ideal for powering my **breadboard projects**. [Schematic can be found here.](https://github.com/potpurri/USB-C-PD-CYPD3177-and-BeerBoard-stand/blob/f3c342192d2ab72d846928ec36ac7f8050d37a6a/imgs/Schematic.pdf)
 
